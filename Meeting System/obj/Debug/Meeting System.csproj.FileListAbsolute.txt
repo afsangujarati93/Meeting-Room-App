@@ -31,3 +31,36 @@ E:\Hackathon\Web_MeetingSystem\Meeting System\bin\Microsoft.CodeDom.Providers.Do
 E:\Hackathon\Web_MeetingSystem\Meeting System\obj\Debug\Meeting System.dll
 E:\Hackathon\Web_MeetingSystem\Meeting System\obj\Debug\Meeting System.pdb
 E:\Hackathon\Web_MeetingSystem\Meeting System\obj\Debug\Meeting System.csprojResolveAssemblyReference.cache
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\ApplicationInsights.config
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\roslyn\csc.exe
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\roslyn\vbc.exe
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Meeting System.dll.config
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Meeting System.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Meeting System.pdb
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.AI.Web.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.AI.Web.xml
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\obj\Debug\Meeting System.csprojResolveAssemblyReference.cache
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\obj\Debug\Meeting System.dll
+E:\Projects\Projects\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\obj\Debug\Meeting System.pdb
