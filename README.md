@@ -5,7 +5,7 @@ Topic:
 Create a meeting room app to book rooms for meeting
 
 Features: 
--Ability to see the floor layout
+-Ability to see the floor layout 
 -Ability to choose rooms based on time and date 
 -Book meeting rooms that are available
 -Visuals to show the availability of room(e.g Green for available, Red for room, disabled for not allowing rooms for booking)
