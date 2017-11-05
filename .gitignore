@@ -1,5 +1,5 @@
 *config.json
 *.log
 
-E:\Documents\aFsAn\BMS\Hackathon\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\bin
-E:\Documents\aFsAn\BMS\Hackathon\Hackathon\Hackthon-MettingRoomsAndGrievances\Hackthon-MettingRoomsAndGrievances\bohot-xxada-khatarnak\Meeting System\Common References\BookMyShow.CommonLibrary.dll
+Meeting System/bin/*
+*BookMyShow.CommonLibrary.dll
